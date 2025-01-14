@@ -7,11 +7,15 @@ git -C "$WORKSPACE" clone https://github.com/saskorea/sas-analytics-pro.git
 ```
 
 
-## <small> 2. 주요 과제 </small>
+## <small> 2. 주제 단위 예제 </small>
 ### <small> 1.1. Machine Learning </small>
 ### <small> 1.2. Image Analysis </small>
 ### <small> 1.3. Recommender Systems </small>
-### <small> 1.4. </small>
+### <small> 1.4. Data Augmentation </small>
+### <samll> 1.5. SAS to python collaboration </small>
 
 
+## <small> 3. 비즈니스 중심 예제 </small>
+### <small> 3.1. Fraud Detection </small>
+### <small> 3.2. ... </small>
 
