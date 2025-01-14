@@ -3,7 +3,7 @@
 ## <small> 1. 프로젝트 목적 </small>
 - SAS Viya Workbench의 Analytic-pro 제품 기능 테스트 및 예제 생성을 목적 주 목적으로 함
 ```
-git -C "$WORKSPACE" clone https://github.com/saskorea/sas-viya-workbench-hands-on.git
+git -C "$WORKSPACE" clone https://github.com/saskorea/sas-analytics-pro.git
 ```
 
 
